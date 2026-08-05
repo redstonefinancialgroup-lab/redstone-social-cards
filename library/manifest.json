@@ -1,0 +1,196 @@
+{
+  "cards": [
+    {
+      "file": "lib-locum-scorp.png",
+      "category": "locum",
+      "kicker": "ENTITY STRUCTURE",
+      "line": "An S-corp is a tool, not a personality.",
+      "size": 90062,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-scorp.png"
+    },
+    {
+      "file": "lib-locum-malpractice.png",
+      "category": "locum",
+      "kicker": "TAIL COVERAGE",
+      "line": "You quit the locum job. The lawsuit didn't.",
+      "size": 90718,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-malpractice.png"
+    },
+    {
+      "file": "lib-locum-health.png",
+      "category": "locum",
+      "kicker": "BENEFITS GAP",
+      "line": "Your \"free\" work health plan was never free. It belonged to the job.",
+      "size": 102307,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-health.png"
+    },
+    {
+      "file": "lib-locum-disability.png",
+      "category": "locum",
+      "kicker": "DISABILITY",
+      "line": "You warrantied the phone. Maybe warranty the hands.",
+      "size": 98922,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-disability.png"
+    },
+    {
+      "file": "lib-locum-rate-trap.png",
+      "category": "locum",
+      "kicker": "W-2 VS 1099",
+      "line": "A $275-an-hour contract can still be the lower-paying job.",
+      "size": 102644,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-rate-trap.png"
+    },
+    {
+      "file": "lib-locum-estimated.png",
+      "category": "locum",
+      "kicker": "QUARTERLY TAXES",
+      "line": "Nobody withholds your taxes anymore. April finds out.",
+      "size": 100246,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-estimated.png"
+    },
+    {
+      "file": "lib-locum-solo401k.png",
+      "category": "locum",
+      "kicker": "1099 RETIREMENT",
+      "line": "W-2 docs get a 401(k) match. You get a 1099 and a good-luck.",
+      "size": 106400,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-solo401k.png"
+    },
+    {
+      "file": "lib-locum-take-home.png",
+      "category": "locum",
+      "kicker": "SELF-EMPLOYMENT TAX",
+      "line": "That day rate isn't your pay. It's your pay minus 15.3% you forgot about.",
+      "size": 111137,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-locum-take-home.png"
+    },
+    {
+      "file": "lib-broad-bank.png",
+      "category": "broad",
+      "kicker": "YOUR BANK",
+      "line": "Your bank is a casino that mails you birthday emails.",
+      "size": 96688,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-bank.png"
+    },
+    {
+      "file": "lib-broad-expensively-broke.png",
+      "category": "broad",
+      "kicker": "HIGH EARNERS",
+      "line": "You're not rich. You're expensively broke.",
+      "size": 90083,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-expensively-broke.png"
+    },
+    {
+      "file": "lib-broad-dyor.png",
+      "category": "broad",
+      "kicker": "DO YOUR OWN RESEARCH",
+      "line": "\"Do your own research\" is how people lose money with confidence.",
+      "size": 109409,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-dyor.png"
+    },
+    {
+      "file": "lib-broad-four-percent.png",
+      "category": "broad",
+      "kicker": "RULES FROM 1994",
+      "line": "The 4% rule is retirement math from the year the Spice Girls debuted.",
+      "size": 105778,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-four-percent.png"
+    },
+    {
+      "file": "lib-broad-voo-chill.png",
+      "category": "broad",
+      "kicker": "VOO AND CHILL",
+      "line": "\"Buy the S&P and chill\" is a bumper sticker with a brokerage account attached.",
+      "size": 113441,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-voo-chill.png"
+    },
+    {
+      "file": "lib-broad-diversified.png",
+      "category": "broad",
+      "kicker": "ALLEGEDLY DIVERSIFIED",
+      "line": "You own the same five stocks four different ways and call it diversified.",
+      "size": 109105,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-diversified.png"
+    },
+    {
+      "file": "lib-broad-fear-suit.png",
+      "category": "broad",
+      "kicker": "HOT TAKE",
+      "line": "Most financial advice is just fear wearing a suit.",
+      "size": 95553,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-fear-suit.png"
+    },
+    {
+      "file": "lib-broad-hsa.png",
+      "category": "broad",
+      "kicker": "STEALTH RETIREMENT",
+      "line": "Your HSA is a retirement account cosplaying as a copay.",
+      "size": 103138,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-broad-hsa.png"
+    },
+    {
+      "file": "lib-local-casino.png",
+      "category": "local",
+      "kicker": "KNOW YOUR NUMBER",
+      "line": "Nobody in this town has ever lost money at a casino.",
+      "size": 99818,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-casino.png"
+    },
+    {
+      "file": "lib-local-nevada.png",
+      "category": "local",
+      "kicker": "NEVADA MATH",
+      "line": "No state income tax is a head start. It isn't a plan.",
+      "size": 93430,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-nevada.png"
+    },
+    {
+      "file": "lib-local-sinking-fund.png",
+      "category": "local",
+      "kicker": "SINKING FUNDS",
+      "line": "Nothing in your budget is \"unexpected.\" You just won't look at the calendar.",
+      "size": 110778,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-sinking-fund.png"
+    },
+    {
+      "file": "lib-local-variable-income.png",
+      "category": "local",
+      "kicker": "IRREGULAR INCOME",
+      "line": "Pay yourself a steady paycheck even in the months the money won't.",
+      "size": 108016,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-variable-income.png"
+    },
+    {
+      "file": "lib-local-blender.png",
+      "category": "local",
+      "kicker": "PRIORITIES",
+      "line": "You researched a $40 blender for three weeks and your 401(k) for zero.",
+      "size": 107760,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-blender.png"
+    },
+    {
+      "file": "lib-local-fantasy.png",
+      "category": "local",
+      "kicker": "KNOW YOUR NUMBERS",
+      "line": "Net worth: unknown. Fantasy roster: memorized.",
+      "size": 99080,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-fantasy.png"
+    },
+    {
+      "file": "lib-local-lifestyle-creep.png",
+      "category": "local",
+      "kicker": "LIFESTYLE CREEP",
+      "line": "Lifestyle creep is the only thing in Vegas that never comps you.",
+      "size": 101347,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-lifestyle-creep.png"
+    },
+    {
+      "file": "lib-local-procrastination.png",
+      "category": "local",
+      "kicker": "LATER IS EXPENSIVE",
+      "line": "\"I'll start next month\" is the most expensive sentence in personal finance.",
+      "size": 105930,
+      "url": "https://raw.githubusercontent.com/redstonefinancialgroup-lab/redstone-social-cards/main/library/lib-local-procrastination.png"
+    }
+  ]
+}
